@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Board from './Board';
 import Form from './Form';
-
 import '../css/App.css';
 
 const gameConfig = {

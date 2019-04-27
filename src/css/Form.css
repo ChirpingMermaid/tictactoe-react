@@ -2,15 +2,16 @@ input {
   text-align: center;
   width: 25px;
   font-family: inherit;
-  font-size: 15px;
+  font-size: 1em;
   margin: 0 7px 0 3px;
 }
 
 button {
   color: white;
-  font: 18px inherit;
+  font-family: inherit;
+  font-size: 1.2em;
   background-color: blue;
   border-radius: 5px;
   border-style: none;
-  margin-bottom: 18px;
+  margin: 2px 0 10px 0;
 }
