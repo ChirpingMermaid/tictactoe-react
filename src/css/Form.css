@@ -1,0 +1,16 @@
+input {
+  text-align: center;
+  width: 25px;
+  font-family: inherit;
+  font-size: 15px;
+  margin: 0 7px 0 3px;
+}
+
+button {
+  color: white;
+  font: 18px inherit;
+  background-color: blue;
+  border-radius: 5px;
+  border-style: none;
+  margin-bottom: 18px;
+}
